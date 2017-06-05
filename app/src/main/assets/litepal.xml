@@ -5,6 +5,6 @@
     <list>
         <mapping class="com.rengui.coolweather.db.Province"/>
         <mapping class="com.rengui.coolweather.db.City"/>
-        <mapping class="com.rengui.coolweather.db.Country"/>
+        <mapping class="com.rengui.coolweather.db.County"/>
     </list>
 </litepal>
